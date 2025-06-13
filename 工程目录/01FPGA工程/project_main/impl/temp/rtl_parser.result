@@ -1,0 +1,170 @@
+[
+ {
+  "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/project_main.v",
+  "InstLine" : 1,
+  "InstName" : "project_main",
+  "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/project_main.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "project_main",
+  "SubInsts" : [
+   {
+    "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/project_main.v",
+    "InstLine" : 34,
+    "InstName" : "u_divider_1s",
+    "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/divider_1s.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "divider_1s"
+   },
+   {
+    "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/project_main.v",
+    "InstLine" : 41,
+    "InstName" : "u_uart_top",
+    "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/uart_top.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_top",
+    "SubInsts" : [
+     {
+      "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/uart_top.v",
+      "InstLine" : 17,
+      "InstName" : "u_uart_rx",
+      "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/uart_rx.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "uart_rx"
+     },
+     {
+      "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/uart_top.v",
+      "InstLine" : 25,
+      "InstName" : "u_uart_decode",
+      "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/uart_decode.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "uart_decode"
+     }
+    ]
+   },
+   {
+    "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/project_main.v",
+    "InstLine" : 63,
+    "InstName" : "u_digital_clock",
+    "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/digital_clock.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "digital_clock"
+   },
+   {
+    "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/project_main.v",
+    "InstLine" : 80,
+    "InstName" : "u_dht11",
+    "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/dht11.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "dht11"
+   },
+   {
+    "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/project_main.v",
+    "InstLine" : 88,
+    "InstName" : "u_lcd_top",
+    "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/lcd_top.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "lcd_top",
+    "SubInsts" : [
+     {
+      "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/lcd_top.v",
+      "InstLine" : 34,
+      "InstName" : "chip_pll",
+      "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/gowin_rpll/gowin_rpll.v",
+      "ModuleLine" : 10,
+      "ModuleName" : "Gowin_rPLL"
+     },
+     {
+      "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/lcd_top.v",
+      "InstLine" : 52,
+      "InstName" : "D1",
+      "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/VGAMod.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "VGAMod",
+      "SubInsts" : [
+       {
+        "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/VGAMod.v",
+        "InstLine" : 93,
+        "InstName" : "u_digital_clock_display",
+        "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/digital_clock_display.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "digital_clock_display"
+       },
+       {
+        "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/VGAMod.v",
+        "InstLine" : 108,
+        "InstName" : "u_mode_display",
+        "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/mode_display.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "mode_display"
+       },
+       {
+        "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/VGAMod.v",
+        "InstLine" : 120,
+        "InstName" : "u_temp_humi_display",
+        "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/temp_humi_display.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "temp_humi_display"
+       },
+       {
+        "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/VGAMod.v",
+        "InstLine" : 132,
+        "InstName" : "u_clock_image_display",
+        "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/clock_image_display.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "clock_image_display"
+       },
+       {
+        "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/VGAMod.v",
+        "InstLine" : 147,
+        "InstName" : "u_title_display",
+        "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/title_display.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "title_display"
+       },
+       {
+        "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/VGAMod.v",
+        "InstLine" : 159,
+        "InstName" : "u_alarm_hourly_display",
+        "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/alarm_hourly_display.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "alarm_hourly_display"
+       },
+       {
+        "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/VGAMod.v",
+        "InstLine" : 172,
+        "InstName" : "i129",
+        "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/alarm_settings_display.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "alarm_settings_display"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/project_main.v",
+    "InstLine" : 113,
+    "InstName" : "u_alarm_hourly",
+    "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/alarm_hourly.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "alarm_hourly"
+   },
+   {
+    "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/project_main.v",
+    "InstLine" : 122,
+    "InstName" : "u_alarm_settings",
+    "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/alarm_settings.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "alarm_settings"
+   },
+   {
+    "InstFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/project_main.v",
+    "InstLine" : 151,
+    "InstName" : "u_Buzzer",
+    "ModuleFile" : "E:/application_project/gowin_project/project_main_5_23/project_main/project_main/src/Buzzer.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "Buzzer"
+   }
+  ]
+ }
+]

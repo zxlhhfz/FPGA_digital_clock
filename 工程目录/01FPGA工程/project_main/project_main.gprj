@@ -1,0 +1,30 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW1NR-9C" pn="GW1NR-LV9QN88PC6/I5">gw1nr9c-004</Device>
+    <FileList>
+        <File path="src/Buzzer.v" type="file.verilog" enable="1"/>
+        <File path="src/VGAMod.v" type="file.verilog" enable="1"/>
+        <File path="src/alarm_hourly.v" type="file.verilog" enable="1"/>
+        <File path="src/alarm_hourly_display.v" type="file.verilog" enable="1"/>
+        <File path="src/alarm_settings.v" type="file.verilog" enable="1"/>
+        <File path="src/alarm_settings_display.v" type="file.verilog" enable="1"/>
+        <File path="src/clock_image_display.v" type="file.verilog" enable="1"/>
+        <File path="src/dht11.v" type="file.verilog" enable="1"/>
+        <File path="src/digital_clock.v" type="file.verilog" enable="1"/>
+        <File path="src/digital_clock_display.v" type="file.verilog" enable="1"/>
+        <File path="src/divider_1s.v" type="file.verilog" enable="1"/>
+        <File path="src/gowin_rpll/gowin_rpll.v" type="file.verilog" enable="1"/>
+        <File path="src/lcd_top.v" type="file.verilog" enable="1"/>
+        <File path="src/mode_display.v" type="file.verilog" enable="1"/>
+        <File path="src/project_main.v" type="file.verilog" enable="1"/>
+        <File path="src/temp_humi_display.v" type="file.verilog" enable="1"/>
+        <File path="src/title_display.v" type="file.verilog" enable="1"/>
+        <File path="src/uart_decode.v" type="file.verilog" enable="1"/>
+        <File path="src/uart_rx.v" type="file.verilog" enable="1"/>
+        <File path="src/uart_top.v" type="file.verilog" enable="1"/>
+        <File path="src/project_main.cst" type="file.cst" enable="1"/>
+    </FileList>
+</Project>

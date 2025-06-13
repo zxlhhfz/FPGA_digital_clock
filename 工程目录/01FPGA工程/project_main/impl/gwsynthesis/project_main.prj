@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW1NR-9C" package="QFN88P" speed="6" partNumber="GW1NR-LV9QN88PC6/I5"/>
+    <FileList>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\Buzzer.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\alarm_hourly.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\alarm_hourly_display.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\alarm_settings.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\alarm_settings_display.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\clock_image_display.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\dht11.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\digital_clock.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\digital_clock_display.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\divider_1s.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\gowin_rpll\gowin_rpll.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\lcd_top.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\mode_display.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\project_main.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\temp_humi_display.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\title_display.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\uart_decode.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\uart_rx.v" type="verilog"/>
+        <File path="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\uart_top.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="global_freq" value="50.000"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="E:\application_project\gowin_project\project_main_5_23\project_main\project_main\impl\gwsynthesis\project_main.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="1"/>
+        <Option type="top_module" value="project_main"/>
+        <Option type="vcc" value="1.2"/>
+        <Option type="verilog_language" value="sysv-2017"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

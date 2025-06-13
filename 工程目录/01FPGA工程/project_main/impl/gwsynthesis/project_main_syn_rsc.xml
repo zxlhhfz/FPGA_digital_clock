@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="project_main" Lut="1" T_Register="566(0)" T_Alu="129(0)" T_Lut="7983(1)" T_Bsram="23(0)">
+ <SubModule name="u_divider_1s" Register="33" Lut="61" T_Register="33(33)" T_Lut="61(61)"/>
+ <SubModule name="u_uart_top" T_Register="190(0)" T_Lut="74(0)">
+  <SubModule name="u_uart_rx" Register="111" Lut="74" T_Register="111(111)" T_Lut="74(74)"/>
+  <SubModule name="u_uart_decode" Register="79" T_Register="79(79)"/>
+ </SubModule>
+ <SubModule name="u_digital_clock" Register="21" Lut="93" T_Register="21(21)" T_Lut="93(93)"/>
+ <SubModule name="u_dht11" Register="99" Alu="32" Lut="136" T_Register="99(99)" T_Alu="32(32)" T_Lut="136(136)"/>
+ <SubModule name="u_lcd_top" Lut="1" T_Register="154(0)" T_Alu="21(0)" T_Lut="7458(1)" T_Bsram="23(0)">
+  <SubModule name="chip_pll"/>
+  <SubModule name="D1" Register="48" Lut="174" T_Register="154(48)" T_Alu="21(0)" T_Lut="7457(174)" T_Bsram="23(0)">
+   <SubModule name="u_digital_clock_display" Register="3" Lut="1095" T_Register="3(3)" T_Lut="1095(1095)"/>
+   <SubModule name="u_mode_display" Register="35" Alu="12" Lut="341" Bsram="10" T_Register="35(35)" T_Alu="12(12)" T_Lut="341(341)" T_Bsram="10(10)"/>
+   <SubModule name="u_temp_humi_display" Register="2" Alu="4" Lut="1534" T_Register="2(2)" T_Alu="4(4)" T_Lut="1534(1534)"/>
+   <SubModule name="u_clock_image_display" Register="3" Lut="3279" T_Register="3(3)" T_Lut="3279(3279)"/>
+   <SubModule name="u_title_display" Register="16" Lut="147" T_Register="16(16)" T_Lut="147(147)"/>
+   <SubModule name="u_alarm_hourly_display" Register="2" Alu="5" Lut="663" T_Register="2(2)" T_Alu="5(5)" T_Lut="663(663)"/>
+   <SubModule name="i129" Register="45" Lut="224" Bsram="13" T_Register="45(45)" T_Lut="224(224)" T_Bsram="13(13)"/>
+  </SubModule>
+ </SubModule>
+ <SubModule name="u_alarm_hourly" Register="6" Alu="5" Lut="9" T_Register="6(6)" T_Alu="5(5)" T_Lut="9(9)"/>
+ <SubModule name="u_alarm_settings" Register="3" Alu="54" Lut="40" T_Register="3(3)" T_Alu="54(54)" T_Lut="40(40)"/>
+ <SubModule name="u_Buzzer" Register="60" Alu="17" Lut="111" T_Register="60(60)" T_Alu="17(17)" T_Lut="111(111)"/>
+</Module>

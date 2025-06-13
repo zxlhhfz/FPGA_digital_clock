@@ -1,0 +1,31 @@
+Reading netlist file: "E:\application_project\gowin_project\project_main_5_23\project_main\project_main\impl\gwsynthesis\project_main.vg"
+Parsing netlist file "E:\application_project\gowin_project\project_main_5_23\project_main\project_main\impl\gwsynthesis\project_main.vg" completed
+Processing netlist completed
+Reading constraint file: "E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\project_main.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+WARN  (TA1132) :  'u_dht11/clk_1M' was determined to be a clock but was not created.
+WARN  (TA1117) : Can't calculate clocks' relationship between: "u_dht11/clk_1M" and "u_lcd_top/chip_pll/rpll_inst/CLKOUTD.default_gen_clk"
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "E:\application_project\gowin_project\project_main_5_23\project_main\project_main\impl\pnr\project_main.power.html" completed
+Generate file "E:\application_project\gowin_project\project_main_5_23\project_main\project_main\impl\pnr\project_main.pin.html" completed
+Generate file "E:\application_project\gowin_project\project_main_5_23\project_main\project_main\impl\pnr\project_main.rpt.html" completed
+Generate file "E:\application_project\gowin_project\project_main_5_23\project_main\project_main\impl\pnr\project_main.rpt.txt" completed
+Generate file "E:\application_project\gowin_project\project_main_5_23\project_main\project_main\impl\pnr\project_main.tr.html" completed
+Mon Jun  2 21:57:39 2025
+

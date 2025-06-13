@@ -1,0 +1,121 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\Buzzer.v'
+WARN  (EX3792) : Literal value 'd20000000 truncated to fit in 24 bits("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\Buzzer.v":13)
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v'
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\alarm_hourly.v'
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\alarm_hourly_display.v'
+WARN  (EX2987) : Variable 'x_pos' must explicitly be declared as automatic or static("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\alarm_hourly_display.v":160)
+WARN  (EX2987) : Variable 'y_pos' must explicitly be declared as automatic or static("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\alarm_hourly_display.v":161)
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\alarm_settings.v'
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\alarm_settings_display.v'
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\clock_image_display.v'
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\dht11.v'
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\digital_clock.v'
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\digital_clock_display.v'
+WARN  (EX2987) : Variable 'x_pos' must explicitly be declared as automatic or static("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\digital_clock_display.v":180)
+WARN  (EX2987) : Variable 'y_pos' must explicitly be declared as automatic or static("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\digital_clock_display.v":181)
+WARN  (EX2987) : Variable 'colon_x' must explicitly be declared as automatic or static("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\digital_clock_display.v":209)
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\divider_1s.v'
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\gowin_rpll\gowin_rpll.v'
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\lcd_top.v'
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\mode_display.v'
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\project_main.v'
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\temp_humi_display.v'
+WARN  (EX2987) : Variable 'x_pos' must explicitly be declared as automatic or static("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\temp_humi_display.v":193)
+WARN  (EX2987) : Variable 'y_pos' must explicitly be declared as automatic or static("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\temp_humi_display.v":194)
+WARN  (EX2987) : Variable 'colon_x' must explicitly be declared as automatic or static("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\temp_humi_display.v":238)
+WARN  (EX2987) : Variable 'x_pos' must explicitly be declared as automatic or static("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\temp_humi_display.v":246)
+WARN  (EX2987) : Variable 'y_pos' must explicitly be declared as automatic or static("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\temp_humi_display.v":247)
+WARN  (EX2987) : Variable 'colon_x' must explicitly be declared as automatic or static("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\temp_humi_display.v":291)
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\title_display.v'
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\uart_decode.v'
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\uart_rx.v'
+Analyzing Verilog file 'E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\uart_top.v'
+Compiling module 'project_main'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\project_main.v":1)
+Compiling module 'divider_1s'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\divider_1s.v":1)
+Compiling module 'uart_top'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\uart_top.v":1)
+Compiling module 'uart_rx'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\uart_rx.v":1)
+Compiling module 'uart_decode'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\uart_decode.v":1)
+Compiling module 'digital_clock'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\digital_clock.v":1)
+Compiling module 'dht11'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\dht11.v":1)
+Compiling module 'lcd_top'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\lcd_top.v":1)
+Compiling module 'Gowin_rPLL'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\gowin_rpll\gowin_rpll.v":10)
+Compiling module 'VGAMod'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":1)
+Compiling module 'digital_clock_display'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\digital_clock_display.v":1)
+WARN  (EX3791) : Expression size 6 truncated to fit in target size 4("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\digital_clock_display.v":142)
+WARN  (EX3791) : Expression size 6 truncated to fit in target size 4("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\digital_clock_display.v":144)
+WARN  (EX3791) : Expression size 6 truncated to fit in target size 4("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\digital_clock_display.v":146)
+Compiling module 'mode_display'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\mode_display.v":1)
+Compiling module 'temp_humi_display'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\temp_humi_display.v":1)
+WARN  (EX3791) : Expression size 8 truncated to fit in target size 4("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\temp_humi_display.v":150)
+WARN  (EX3791) : Expression size 8 truncated to fit in target size 4("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\temp_humi_display.v":152)
+WARN  (EX3791) : Expression size 8 truncated to fit in target size 4("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\temp_humi_display.v":154)
+WARN  (EX3791) : Expression size 8 truncated to fit in target size 4("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\temp_humi_display.v":156)
+Compiling module 'clock_image_display'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\clock_image_display.v":1)
+Compiling module 'title_display'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\title_display.v":1)
+Compiling module 'alarm_hourly_display'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\alarm_hourly_display.v":1)
+WARN  (EX3791) : Expression size 6 truncated to fit in target size 4("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\alarm_hourly_display.v":124)
+WARN  (EX3771) : Module instantiation should have an instance name("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":172)
+Compiling module 'alarm_settings_display'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\alarm_settings_display.v":1)
+WARN  (EX2565) : Input 'temp[15]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'temp[14]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'temp[13]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'temp[12]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'temp[11]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'temp[10]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'temp[9]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'temp[8]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'temp[7]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'temp[6]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'temp[5]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'temp[4]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'temp[3]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'temp[2]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'temp[1]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'temp[0]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'humi[15]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'humi[14]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'humi[13]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'humi[12]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'humi[11]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'humi[10]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'humi[9]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'humi[8]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'humi[7]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'humi[6]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'humi[5]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'humi[4]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'humi[3]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'humi[2]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'humi[1]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+WARN  (EX2565) : Input 'humi[0]' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\VGAMod.v":129)
+Compiling module 'alarm_hourly'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\alarm_hourly.v":1)
+Compiling module 'alarm_settings'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\alarm_settings.v":1)
+Compiling module 'Buzzer'("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\Buzzer.v":1)
+WARN  (EX3791) : Expression size 5 truncated to fit in target size 4("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\Buzzer.v":57)
+WARN  (EX3791) : Expression size 25 truncated to fit in target size 24("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\Buzzer.v":59)
+WARN  (EX3791) : Expression size 19 truncated to fit in target size 18("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\Buzzer.v":110)
+WARN  (EX2565) : Input 'CP_1Hz' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\project_main.v":160)
+WARN  (EX2565) : Input 'button' on this instance is undriven. Assigning to 0, simulation mismatch possible. Please assign the input or remove the declaration("E:\application_project\gowin_project\project_main_5_23\project_main\project_main\src\project_main.v":160)
+NOTE  (EX0101) : Current top module is "project_main"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "E:\application_project\gowin_project\project_main_5_23\project_main\project_main\impl\gwsynthesis\project_main.vg" completed
+WARN  (CK3000) : Can't calculate clocks' relationship between: "u_dht11/clk_1M" and "u_lcd_top/chip_pll/rpll_inst/CLKOUTD.default_gen_clk"
+[100%] Generate report file "E:\application_project\gowin_project\project_main_5_23\project_main\project_main\impl\gwsynthesis\project_main_syn.rpt.html" completed
+GowinSynthesis finish
