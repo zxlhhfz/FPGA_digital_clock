@@ -18,9 +18,9 @@
 
 FPGA的LUT和BSRAM利用率约为90%，主要消耗在模拟钟面显示上。
 
-![FPGA端](.\pic\FPGA端.jpg)
+![FPGA端](/pic/FPGA端.jpg)
 
 
 
-![串口屏控制端](.\pic\串口屏控制端.jpg)
+![串口屏控制端](/pic/串口屏控制端.jpg)
 
