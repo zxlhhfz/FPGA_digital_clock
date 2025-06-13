@@ -16,8 +16,11 @@
 - FPGA端PCB底板（自主设计）
 - 串口屏控制端PCB底板（自主设计）
 
-FPGA的LUT和BSRAM利用率约为90%，主要消耗在模拟钟面显示上
+FPGA的LUT和BSRAM利用率约为90%，主要消耗在模拟钟面显示上。
 
-![image-20250614014840559](C:\Users\hhfz\AppData\Roaming\Typora\typora-user-images\image-20250614014840559.png)
+![FPGA端](C:\Users\hhfz\Documents\GitHub\FPGA_digital_clock\pic\FPGA端.jpg)
 
-![image-20250614014845273](C:\Users\hhfz\AppData\Roaming\Typora\typora-user-images\image-20250614014845273.png)
+
+
+![串口屏控制端](C:\Users\hhfz\Documents\GitHub\FPGA_digital_clock\pic\串口屏控制端.jpg)
+
