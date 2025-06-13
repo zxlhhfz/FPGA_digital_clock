@@ -1,2 +1,23 @@
-# FPGA_digital_clock
- 华科hust电信学院硬件课设
+# 基于FPGA的多彩数字钟
+
+本项目为华中科技大学电信学院硬件课设的工程文件。
+
+使用Tang Nano 9k开发板为主控，完成了所有的基础要求和拓展要求，包括时间显示、校时、温湿度测量、音乐蜂鸣、报时闹钟、模拟钟面显示等。并使用串口屏通过蓝牙远程设置数字钟的相关配置，具有一定的实用性。
+
+项目中所用硬件为：
+
+- Tang Nano 9k FPGA开发板
+- LCD显示屏（840*480）
+- DHT11模块
+- 无源蜂鸣器
+- HC-05 *2
+- 电源稳压模块*2
+- 12V锂电池*2
+- FPGA端PCB底板（自主设计）
+- 串口屏控制端PCB底板（自主设计）
+
+FPGA的LUT和BSRAM利用率约为90%，主要消耗在模拟钟面显示上。
+
+![image-20250614014840559](C:\Users\hhfz\AppData\Roaming\Typora\typora-user-images\image-20250614014840559.png)
+
+![image-20250614014845273](C:\Users\hhfz\AppData\Roaming\Typora\typora-user-images\image-20250614014845273.png)
